@@ -566,6 +566,11 @@ cite{
   width: 20%;
 }
 
+.footer-grid-menu-item a{
+  text-decoration: none;
+  color: #868c98;
+}
+
 .footer .container-lg{
   color: #868c98;
   text-align: center;
